@@ -54,7 +54,7 @@ ERIQ is a large-scale embodied reasoning benchmark for robotic manipulation, com
 
 ## Dataset Files
 ```
-Embodied_Reasoning_Intelligence_Quotient/
+ERIQ/
 ├── images/                              # Visual data for all questions
 ├── QA_ACTION_UNDERSTANDING.json         # Action understanding tasks
 ├── QA_DUALVIEW_MATCHING.json           # Multi-view spatial reasoning

@@ -1,76 +1,76 @@
 datasets:
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_ACTION_UNDERSTANDING.json
+- json_path: ERIQ/QA_ACTION_UNDERSTANDING.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: video
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_HUMAN_INTENTION.json
+- json_path: ERIQ/QA_HUMAN_INTENTION.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: video
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_HUMAN_INTERACTION.json
+- json_path: ERIQ/QA_HUMAN_INTERACTION.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: video
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_MISTAKE_RECOVERY.json
+- json_path: ERIQ/QA_MISTAKE_RECOVERY.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: video
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_MISTAKE_CLASSIFY.json
+- json_path: ERIQ/QA_MISTAKE_CLASSIFY.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: video
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_MISTAKE_EXISTENCE.json
+- json_path: ERIQ/QA_MISTAKE_EXISTENCE.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: video
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_SUBTASK_PLANNING.json
+- json_path: ERIQ/QA_SUBTASK_PLANNING.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_SUCCESS_DETECTION.json
+- json_path: ERIQ/QA_SUCCESS_DETECTION.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_SCENE_UNDERSTANDING.json
+- json_path: ERIQ/QA_SCENE_UNDERSTANDING.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_TASK_PROGRESS.json
+- json_path: ERIQ/QA_TASK_PROGRESS.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_TRAJ_UNDERSTANDING.json
+- json_path: ERIQ/QA_TRAJ_UNDERSTANDING.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_DUALVIEW_MATCHING.json
+- json_path: ERIQ/QA_DUALVIEW_MATCHING.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_TASK_GROUNDING.json
+- json_path: ERIQ/QA_TASK_GROUNDING.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_RELATIVE_POS_GROUNDING.json
+- json_path: ERIQ/QA_RELATIVE_POS_GROUNDING.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
-- json_path: Embodied_Reasoning_Intelligence_Quotient/QA_FINE_GRAINED_PLAN.json
+- json_path: ERIQ/QA_FINE_GRAINED_PLAN.json
   sampling_strategy: all
-  data_root: Embodied_Reasoning_Intelligence_Quotient/images
+  data_root: ERIQ/images
   coord_type: abs
   data_modality: image
