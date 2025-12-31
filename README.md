@@ -62,6 +62,8 @@ Embodied_Reasoning_Intelligence_Quotient/
 ├── QA_HUMAN_INTENTION.json             # Human intention comprehension
 ├── QA_HUMAN_INTERACTION.json           # Human-robot collaboration
 ├── QA_MISTAKE_RECOVERY.json            # Error recovery strategies
+├── QA_MISTAKE_CLASSIFY.json            # Error classification tasks
+├── QA_MISTAKE_EXISTENCE.json           # Error detection tasks
 ├── QA_RELATIVE_POS_GROUNDING.json      # Relative position understanding
 ├── QA_SCENE_UNDERSTANDING.json         # Scene comprehension
 ├── QA_SUBTASK_PLANNING.json            # High-level task decomposition
@@ -236,3 +238,5 @@ MIT License - see [LICENSE-CODE](LICENSE-CODE)
 Creative Commons Attribution 4.0 International (CC BY 4.0) - see [LICENSE-DATA](LICENSE-DATA)
 
 © 2025 AgiBot Research. All Rights Reserved.
+
+**Contact**: For commercial licensing inquiries, please contact [licensing@agibot.com](mailto:licensing@agibot.com)
