@@ -1,5 +1,10 @@
 # ERIQ Benchmark: Embodied Reasoning Intelligence Quotient
 
+[![arXiv](https://img.shields.io/badge/arXiv-2501.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2501.XXXXX)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/YOUR_ORG/ERIQ)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 ERIQ is a large-scale embodied reasoning benchmark for robotic manipulation, comprising **6,052** question-answer pairs across **15 fine-grained sub-tasks** organized into **4 major reasoning dimensions**. This benchmark decouples cognitive reasoning from motor control, enabling independent evaluation of embodied reasoning capabilities without confounding action execution errors.
@@ -215,7 +220,7 @@ If you use the ERIQ benchmark in your research, please cite:
 @article{liu2025geniereasoner,
   title={Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training},
   author={Liu, Yi and Wang, Sukai and Wei, Dafeng and Cai, Xiaowei and Zhong, Linqing and Yang, Jiange and Ren, Guanghui and Zhang, Jinyu and Yao, Maoqing and Li, Chuankang and He, Xindong and Chen, Liliang and Luo, Jianlan},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:submit/7120983},
   year={2025}
 }
 ```
@@ -231,6 +236,5 @@ MIT License - see [LICENSE-CODE](LICENSE-CODE)
 Creative Commons Attribution 4.0 International (CC BY 4.0) - see [LICENSE-DATA](LICENSE-DATA)
 
 © 2025 AgiBot Research. All Rights Reserved.
-
 
 **Contact**: For commercial licensing inquiries, please contact [licensing@agibot.com](mailto:licensing@agibot.com)

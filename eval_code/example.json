@@ -1,0 +1,77 @@
+[   
+    {
+        "id": "QA_ACTION_UNDERSTANDING:1",
+        "image": [
+            "1879/26283/A2D0013B200209/1231430/camera/0/head_color.jpg",
+            "1879/26283/A2D0013B200209/1231430/camera/36/head_color.jpg",
+            "1879/26283/A2D0013B200209/1231430/camera/73/head_color.jpg",
+            "1879/26283/A2D0013B200209/1231430/camera/109/head_color.jpg",
+            "1879/26283/A2D0013B200209/1231430/camera/146/head_color.jpg",
+            "1879/26283/A2D0013B200209/1231430/camera/182/head_color.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nIn the video, what action is robot performing?\nA. Hold the drawer handle with both grippers.\nB. Push the drawer closed with the left gripper.\nC. Pull the drawer with the right gripper.\nD. Pick up the box from the table with the right gripper.\n"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "prediction": "C",
+        "gt_answer": "C"
+    },
+    {
+        "id": "QA_MISTAKE_EXISTENCE:1",
+        "image": [
+            "507/7568/A2D0015AB00044/906666/camera/3605/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3630/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3656/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3682/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3707/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3733/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3759/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3784/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3810/head_color.jpg",
+            "507/7568/A2D0015AB00044/906666/camera/3836/head_color.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nIn the video, did robot make a mistake while performing action: \"place the held original flavor toast on the vegetable leaf with the right arm \"?(Yes/No)"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ],
+        "prediction": "No",
+        "gt_answer": "No"
+    },
+    {
+        "id": "QA_MISTAKE_EXISTENCE:2",
+        "image": [
+            "507/7575/A2D0015AB00044/914570/camera/672/head_color.jpg",
+            "507/7575/A2D0015AB00044/914570/camera/691/head_color.jpg",
+            "507/7575/A2D0015AB00044/914570/camera/710/head_color.jpg",
+            "507/7575/A2D0015AB00044/914570/camera/729/head_color.jpg",
+            "507/7575/A2D0015AB00044/914570/camera/768/head_color.jpg",
+            "507/7575/A2D0015AB00044/914570/camera/787/head_color.jpg",
+            "507/7575/A2D0015AB00044/914570/camera/806/head_color.jpg",
+            "507/7575/A2D0015AB00044/914570/camera/845/head_color.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nIn the video, did robot make a mistake while performing action: \"place the held meat slice on the whole wheat toast in the plate with the right arm \"?(Yes/No)\nPlease answer directly with only the letter of the correct option and nothing else."
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ],
+        "prediction": "Yes",
+        "gt_answer": "No"
+    }
+]
