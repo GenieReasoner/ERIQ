@@ -1,6 +1,6 @@
 # ERIQ Benchmark: Embodied Reasoning Intelligence Quotient
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2501.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.24125-b31b1b.svg)](https://arxiv.org/abs/2512.24125)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/agibot-research/ERIQ/tree/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -219,11 +219,14 @@ Weighted average accuracy: 0.6667 (66.67%)
 
 If you use the ERIQ benchmark in your research, please cite:
 ```bibtex
-@article{liu2025geniereasoner,
-  title={Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training},
-  author={Liu, Yi and Wang, Sukai and Wei, Dafeng and Cai, Xiaowei and Zhong, Linqing and Yang, Jiange and Ren, Guanghui and Zhang, Jinyu and Yao, Maoqing and Li, Chuankang and He, Xindong and Chen, Liliang and Luo, Jianlan},
-  journal={arXiv preprint arXiv:submit/7120983},
-  year={2025}
+@misc{liu2025unifiedembodiedvlmreasoning,
+      title={Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training}, 
+      author={Yi Liu and Sukai Wang and Dafeng Wei and Xiaowei Cai and Linqing Zhong and Jiange Yang and Guanghui Ren and Jinyu Zhang and Maoqing Yao and Chuankang Li and Xindong He and Liliang Chen and Jianlan Luo},
+      year={2025},
+      eprint={2512.24125},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2512.24125}, 
 }
 ```
 
@@ -238,5 +241,3 @@ MIT License - see [LICENSE-CODE](LICENSE-CODE)
 Creative Commons Attribution 4.0 International (CC BY 4.0) - see [LICENSE-DATA](LICENSE-DATA)
 
 © 2025 AgiBot Research. All Rights Reserved.
-
-**Contact**: For commercial licensing inquiries, please contact [licensing@agibot.com](mailto:licensing@agibot.com)
